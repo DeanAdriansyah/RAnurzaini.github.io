@@ -1,6 +1,6 @@
 QR Code
 
-![gambar](img/QR.png)
+![gambar](ranurzaini.github.io/img/QR.png)
 
 Links:
 github web: https://deanadriansyah.github.io/ranurzaini.github.io/
