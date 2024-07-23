@@ -1,5 +1,5 @@
 QR Code
-![QR Code](img/QR.png)
+![Logo](img/QR.png)
 
 Links:
 github web: https://deanadriansyah.github.io/ranurzaini.github.io/
