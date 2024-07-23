@@ -1,5 +1,5 @@
 QR Code
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyI6_omYbsDY3tBQyYzig_r1WtnoPE5tMxWA&s)
+https://github.com/DeanAdriansyah/ranurzaini.github.io/blob/master/img/QR.png
 
 Links:
 github web: https://deanadriansyah.github.io/ranurzaini.github.io/
